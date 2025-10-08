@@ -1,6 +1,6 @@
 package com.ieschabas;
 /**
- * Clase que me crea una ficha con mi nombre, mi edad calculada y donde vivo
+ * Clase que crea un ticket de un producto con su precio y su iva
  * @author Deni Dadaev
  * @version 1.0
  */
