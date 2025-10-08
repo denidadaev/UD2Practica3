@@ -1,6 +1,6 @@
 package com.ieschabas;
 /**
- * Clase que me crea una ficha con mi nombre, mi edad calculada y donde vivo
+ * Clase que calcula la suma, la resta y el producto de los dos números introducidos
  * @author Deni Dadaev
  * @version 1.0
  */
