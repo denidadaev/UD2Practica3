@@ -1,5 +1,9 @@
 package com.ieschabas;
-
+/**
+ * Clase que
+ * @author Deni Dadaev
+ * @version 1.0
+ */
 class NormalizadorDeRegistro {
     private String usuario;
     private String correo;

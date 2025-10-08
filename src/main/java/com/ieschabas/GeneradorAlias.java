@@ -1,5 +1,9 @@
 package com.ieschabas;
-
+/**
+ * Clase que me crea una ficha con mi nombre, mi edad calculada y donde vivo
+ * @author Deni Dadaev
+ * @version 1.0
+ */
 class GeneradorAlias {
     private String nombreCompleto;
     private String ciclo;

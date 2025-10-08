@@ -1,5 +1,9 @@
 package com.ieschabas;
-
+/**
+ * Clase que me crea una ficha con mi nombre, mi edad calculada y donde vivo
+ * @author Deni Dadaev
+ * @version 1.0
+ */
 class FormateadorFactura {
     private String producto;
     private double precioBase;
@@ -14,7 +18,7 @@ class FormateadorFactura {
 
     // Generar línea de ticket
     public String generarLineaTicket() {
-        return String.format("%-20s %.2f", producto, precioBase);
+        return String.format("Ticket del producto: " + producto + " " + precioBase + "€");
     }
 
     // Calcular total con IVA

@@ -1,5 +1,9 @@
 package com.ieschabas;
-
+/**
+ * Clase que me crea una ficha con mi nombre, mi edad calculada y donde vivo
+ * @author Deni Dadaev
+ * @version 1.0
+ */
 class CalculadoraTexto {
     private double n1;
     private double n2;
@@ -28,7 +32,6 @@ class CalculadoraTexto {
 
     // Generar resumen
     public String generarResumen() {
-        return String.format("Suma: %.2f, Resta: %.2f, Producto: %.2f",
-                calcularSuma(), calcularResta(), calcularProducto());
+        return String.format("Suma: " + calcularSuma() + ", " +  "Resta: " + calcularResta() + ", " + "Producto: " + calcularProducto());
     }
 }

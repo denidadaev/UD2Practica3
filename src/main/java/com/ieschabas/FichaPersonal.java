@@ -3,6 +3,11 @@ package com.ieschabas;
 import java.time.LocalDate;
 import java.time.Period;
 
+/**
+ * Clase que me crea una ficha con mi nombre, mi edad calculada y donde vivo
+ * @author Deni Dadaev
+ * @version 1.0
+ */
 class FichaPersonal {
     private String nombre;
     private String apellido;
@@ -26,7 +31,6 @@ class FichaPersonal {
 
     // Generar etiqueta de identificación
     public String generarEtiqueta() {
-        return String.format("Nombre: %s %s\nFecha de nacimiento: %s\nEdad: %d\nCiudad: %s",
-                nombre, apellido, fechaNacimiento, calcularEdad(), ciudad);
+        return String.format("Nombre: " + nombre + " Apellidos: " + apellido + " Fecha de nacimiento: " + fechaNacimiento + " Edad: " + calcularEdad() + " Ciudad: " + ciudad);
     }
 }
