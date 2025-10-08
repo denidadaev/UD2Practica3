@@ -1,6 +1,6 @@
 package com.ieschabas;
 /**
- * Clase que
+ * Clase que me registra con datos de nombre completo, correo electrónico, telefono y genera una clave numérica
  * @author Deni Dadaev
  * @version 1.0
  */
