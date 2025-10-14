@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7f7b760-8907-4955-92be-7e28470bebf2" name="Changes" comment="Creadas las clases: Calculadora de texto, formateador de factura, ficha personal, generador de alias y normalizador de registro, con el main genral." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;denidadaev&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/denidadaev/UD2Practica3.git&quot;,
+    &quot;accountId&quot;: &quot;4c90df88-15fa-43a2-8814-4339848ff6a4&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="33YegNOqjBlfP1iDZXI6KkCjY9O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/dendad/IdeaProjects/UD2P3/src/main/java/com/ieschabas/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7f7b760-8907-4955-92be-7e28470bebf2" name="Changes" comment="" />
+      <created>1759498545819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759498545819</updated>
+      <workItem from="1759498547155" duration="3641000" />
+      <workItem from="1759503797432" duration="509000" />
+      <workItem from="1759762560676" duration="4858000" />
+      <workItem from="1759861742072" duration="4238000" />
+      <workItem from="1759930694602" duration="4674000" />
+      <workItem from="1759936475689" duration="505000" />
+      <workItem from="1760450613744" duration="5000" />
+    </task>
+    <task id="LOCAL-00001" summary="creadas las clses pa su puta madre">
+      <option name="closed" value="true" />
+      <created>1759503917556</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759503917556</updated>
+    </task>
+    <task id="LOCAL-00002" summary="creadas las clses pa su puta madre">
+      <option name="closed" value="true" />
+      <created>1759503946879</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759503946879</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Creadas las clases: Calculadora de texto, formateador de factura, ficha personal, generador de alias y normalizador de registro, con el main genral.">
+      <option name="closed" value="true" />
+      <created>1759933385166</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759933385166</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Creadas las clases: Calculadora de texto, formateador de factura, ficha personal, generador de alias y normalizador de registro, con el main genral.">
+      <option name="closed" value="true" />
+      <created>1759933564860</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759933564860</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Creadas las clases: Calculadora de texto, formateador de factura, ficha personal, generador de alias y normalizador de registro, con el main genral.">
+      <option name="closed" value="true" />
+      <created>1760467398248</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1760467398248</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="creadas las clses pa su puta madre" />
+    <MESSAGE value="Creadas las clases: Calculadora de texto, formateador de factura, ficha personal, generador de alias y normalizador de registro, con el main genral." />
+    <option name="LAST_COMMIT_MESSAGE" value="Creadas las clases: Calculadora de texto, formateador de factura, ficha personal, generador de alias y normalizador de registro, con el main genral." />
+  </component>
+</project>
